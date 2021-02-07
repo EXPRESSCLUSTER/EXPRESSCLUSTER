@@ -1,7 +1,7 @@
 # EXPRESSCLUSTER/CLUSTERPRO
 - EXPRESSCLUSTER is a HA (High Availability) clustering software. In Japan, it is called CLUSTERPRO. For more detail, please visit NEC official website.
-  - EXPRESSCLUSTER: http://www.nec.com/en/global/prod/expresscluster/
-  - CLUSTERPRO: http://jpn.nec.com/clusterpro/
+  - [EXPRESSCLUSTER](http://www.nec.com/en/global/prod/expresscluster/)
+  - [CLUSTERPRO](http://jpn.nec.com/clusterpro/)
 
 ## Index
 - [Manuals](#manuals)
@@ -10,7 +10,7 @@
 
 ## Manuals
 - There are HTML and PDF manuals.
-  - HTMLl
+  - HTML
     - [EXPRESSCLUSTER](https://www.manuals.nec.co.jp/contents/node/502)
     - [CLUSTERPRO](https://www.manuals.nec.co.jp/contents/node/500)
   - PDF
@@ -32,10 +32,13 @@
 - [Docker](https://github.com/EXPRESSCLUSTER/docker) 
 - [Kubernetes](https://github.com/EXPRESSCLUSTER/kubernetes)
 
+### Database
+- [Oracle Database](https://github.com/EXPRESSCLUSTER/Oracle-Database)
+
 ### Security
 - [BitLocker](https://github.com/EXPRESSCLUSTER/BitLocker)
-- [SELinux]((https://github.com/EXPRESSCLUSTER/SELinux)
+- [SELinux](https://github.com/EXPRESSCLUSTER/SELinux)
 
 ### Virtualization
 - [KVM](https://github.com/EXPRESSCLUSTER/KVM)
-
+- [QEMU](https://github.com/EXPRESSCLUSTER/QEMU)
